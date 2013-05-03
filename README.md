@@ -25,4 +25,6 @@ First, install node.js. Then go to the root directory of this boilerplate,
 
 Built project will be placed at build/
 
-	
+##Reference
+
+https://github.com/tcc/require-ls
