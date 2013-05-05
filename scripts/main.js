@@ -21,6 +21,6 @@ require(["prelude"], function () {
     prelude.installPrelude(window);
 });
 
-require(["ls!lstest", "prelude"], function () {
+require(["ls!lstest"], function () {
     // Main
 });
